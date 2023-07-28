@@ -1,5 +1,5 @@
 # SGS-SNN
-Surrogate Gradient Scaling for Directly Training Spiking Neural Networks
+***Surrogate Gradient Scaling for Directly Training Spiking Neural Networks***
 
 This paper has been submitted to ***Applied Intelligence***. The complete code will be made public when our paper is accepted.
 
