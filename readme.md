@@ -11,9 +11,9 @@ This paper has been submitted to Applied Intelligence. The complete code will be
 
 
 ## Datasets
-*  CIFAR10(http://www.cs.toronto.edu/~kriz/cifar.html) 
-*  CIFAR100(http://www.cs.toronto.edu/~kriz/cifar.html)
-*  DVS-CIFAR10(https://figshare.com/s/d03a91081824536f12a8)
+*  [CIFAR10](http://www.cs.toronto.edu/~kriz/cifar.html) 
+*  [CIFAR100](http://www.cs.toronto.edu/~kriz/cifar.html)
+*  [DVS-CIFAR10](https://figshare.com/s/d03a91081824536f12a8)
 
 ## Usage
 ```python
