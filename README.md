@@ -20,5 +20,6 @@ This paper has been submitted to ***Applied Intelligence***. The complete code w
 *  train.py: release soon
 
 ## Usage
+* run my_main.py on CIFAR10, T=2, can achieve accuracy of 94% where in our ablation study of our manuscript. 
 ```python
 python my_main.py
