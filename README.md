@@ -3,6 +3,10 @@
 
 This paper has been submitted to ***Applied Intelligence***. The complete code will be made public when our paper is accepted.
 
+## Figures
+![/SGS-SNN/fig3.png](https://github.com/CHNtao/SGS-SNN/blob/main/fig3.png)
+![/SGS-SNN/fig7.png](https://github.com/CHNtao/SGS-SNN/blob/main/fig7.png)
+
 ## Requirements
 *  Python 3.9.7
 *  Torch 1.10.1
